@@ -412,7 +412,7 @@ export default function App() {
                 <p className="text-indigo-400 font-semibold mt-1">CSE Student & Content Strategist</p>
                 <div className="flex gap-4 mt-6 justify-center">
                   <a href="https://www.linkedin.com/in/nandakishore2410/" target="_blank" className="p-3 rounded-xl bg-white/5 hover:bg-blue-500/20 transition-all border border-white/5"><i className="fa-brands fa-linkedin text-blue-400 text-xl"></i></a>
-                  <a href="https://www.instagram.com/" target="_blank" className="p-3 rounded-xl bg-white/5 hover:bg-pink-500/20 transition-all border border-white/5"><i className="fa-brands fa-instagram text-pink-400 text-xl"></i></a>
+                  <a href="https://www.instagram.com/insane.info/" target="_blank" className="p-3 rounded-xl bg-white/5 hover:bg-pink-500/20 transition-all border border-white/5"><i className="fa-brands fa-instagram text-pink-400 text-xl"></i></a>
                   <a href="https://github.com/kishore071005" target="_blank" className="p-3 rounded-xl bg-white/5 hover:bg-slate-400/20 transition-all border border-white/5"><i className="fa-brands fa-github text-slate-400 text-xl"></i></a>
                 </div>
               </div>
@@ -657,7 +657,7 @@ export default function App() {
             <a href="https://www.linkedin.com/in/nandakishore2410/" target="_blank" className="flex items-center gap-3 px-8 py-4 rounded-full border border-white/10 hover:bg-blue-500/10 transition-all text-lg font-medium">
               <i className="fa-brands fa-linkedin text-blue-400 text-xl"></i> LinkedIn
             </a>
-            <a href="https://www.instagram.com/" target="_blank" className="flex items-center gap-3 px-8 py-4 rounded-full border border-white/10 hover:bg-pink-500/10 transition-all text-lg font-medium">
+            <a href="https://www.instagram.com/insane.info/" target="_blank" className="flex items-center gap-3 px-8 py-4 rounded-full border border-white/10 hover:bg-pink-500/10 transition-all text-lg font-medium">
               <i className="fa-brands fa-instagram text-pink-400 text-xl"></i> Instagram
             </a>
           </motion.div>
